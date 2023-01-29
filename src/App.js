@@ -1,12 +1,7 @@
-import React from 'react';
+import React from "react";
 
 const App = () => {
-  return (
-    <div>
-      App Lesson 1
-    </div>
-  );
+  return <div>App Lesson 4</div>;
 };
 
-
-export { App }; 
+export { App };
