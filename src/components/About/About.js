@@ -1,11 +1,11 @@
 import React from 'react';
 
-const PostPage = () => {
+const About = () => {
     return (
         <div>
-            PostPage
+            About
         </div>
     );
 };
 
-export {PostPage} ;
+export { About};

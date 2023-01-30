@@ -1,11 +1,11 @@
 import React from 'react';
 
-const PostPage = () => {
+const Home = () => {
     return (
         <div>
-            PostPage
+            Home
         </div>
     );
 };
 
-export {PostPage} ;
+export {Home};

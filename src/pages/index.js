@@ -1,6 +1,6 @@
-export * from './AboutPage';
-export * from './NotFoundPage';
-export * from './PostDetailsPage';
-export * from './PostPage';
-export * from './UserPage';
-export * from './HomePage';
+export * from './AboutPage/AboutPage';
+
+export * from './PostDetailsPage/PostDetailsPage';
+export * from './PostPage/PostPage';
+export * from './UserPage/UserPage';
+export * from './HomePage/HomePage';
